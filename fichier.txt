@@ -1,0 +1,4 @@
+ceci est une phrase
+qui va être
+dans un fichier
+text pour l'exo
